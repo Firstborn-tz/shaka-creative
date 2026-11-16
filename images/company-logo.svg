@@ -1,0 +1,11 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Shaka Creative Lab logo placeholder</title>
+  <desc id="desc">Replace this file with your company logo.</desc>
+  <rect width="1200" height="800" rx="32" fill="#0B2D5B"/>
+  <circle cx="600" cy="310" r="150" fill="#FBB91F"/>
+  <path d="M600 195a92 92 0 0 0-52 168v37h104v-37a92 92 0 0 0-52-168z" fill="#0B2D5B"/>
+  <rect x="570" y="409" width="60" height="14" rx="7" fill="#0B2D5B"/>
+  <rect x="580" y="432" width="40" height="12" rx="6" fill="#0B2D5B"/>
+  <text x="600" y="565" fill="#fff" font-family="Arial,sans-serif" font-size="54" font-weight="700" letter-spacing="3" text-anchor="middle">SHAKA</text>
+  <text x="600" y="625" fill="#FBB91F" font-family="Arial,sans-serif" font-size="30" font-weight="600" letter-spacing="5" text-anchor="middle">CREATIVE LAB</text>
+</svg>
